@@ -1,0 +1,2 @@
+# mavenImparityProfile
+利用maven的resources、filter和profile实现不同环境使用不同配置文件
