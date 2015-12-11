@@ -60,7 +60,7 @@
           <!-- <resource>
               <directory>src/main/resources/properties/properties</directory>&lt;!&ndash;一定要指向上层目录&ndash;&gt;
               <includes>
-                  &lt;!&ndash;要变异出来文件都必须写&ndash;&gt;
+                  &lt;!&ndash;要编译出来文件都必须写&ndash;&gt;
                   <include>product.properties</include>
                   <include>test.properties</include>
                   <include>dev.properties</include>
